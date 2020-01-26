@@ -108,3 +108,10 @@ dist
 
 # screenshot/*.png
 screenshot/*.png
+
+# mn/*.{png|jpg|gif}
+mn/*.png
+mn/*.jpg
+mn/*.gif
+
+.DS_Store
