@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/paopaomo/headless-crawler/issues"
   },
-  "homepage": "https://github.com/paopaomo/headless-crawler#readme"
+  "homepage": "https://github.com/paopaomo/headless-crawler#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
 }
